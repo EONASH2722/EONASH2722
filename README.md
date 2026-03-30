@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EONASH2722
 - 👀 I’m interested in gaming and coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by janmeshmeena10@gmail.com
 - 😄 Pronouns: HE/HIM
